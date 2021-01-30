@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans! 
+
+Vars here, I am teaching myself C# and I want to master it. 
